@@ -1,0 +1,159 @@
+function play_fil1() {
+  listener();
+  var aud = document.getElementById("fil1").play();
+}
+function play_fil2() {
+  listener();
+  var aud = document.getElementById("fil2").play();
+}
+function play_fil3() {
+  listener();
+  var aud = document.getElementById("fil3").play();
+}
+function play_fil4() {
+  listener();
+  var aud = document.getElementById("fil4").play();
+}
+function play_fil5() {
+  listener();
+  var aud = document.getElementById("fil5").play();
+}
+function play_fil6() {
+  listener();
+  var aud = document.getElementById("fil6").play();
+}
+function play_fil7() {
+  listener();
+  var aud = document.getElementById("fil7").play();
+}
+function play_fil8() {
+  listener();
+  var aud = document.getElementById("fil8").play();
+}
+function play_fil9() {
+  listener();
+  var aud = document.getElementById("fil9").play();
+}
+function play_fil10() {
+  listener();
+  var aud = document.getElementById("fil10").play();
+}
+function play_fil11() {
+  listener();
+  var aud = document.getElementById("fil11").play();
+}
+
+function play_fil12() {
+  listener();
+  var aud = document.getElementById("fil12").play();
+}
+
+function play_fil13() {
+  listener();
+  var aud = document.getElementById("fil13").play();
+}
+
+function play_fil14() {
+  listener();
+  var aud = document.getElementById("fil14").play();
+}
+
+function play_fil15() {
+  listener();
+  var aud = document.getElementById("fil15").play();
+}
+
+function play_fil16() {
+  listener();
+  var aud = document.getElementById("fil16").play();
+}
+
+function play_fil17() {
+  listener();
+  var aud = document.getElementById("fil17").play();
+}
+
+function play_fil18() {
+  listener();
+  var aud = document.getElementById("fil18").play();
+}
+
+function play_fil19() {
+  listener();
+  var aud = document.getElementById("fil19").play();
+}
+
+function play_fil20() {
+  listener();
+  var aud = document.getElementById("fil20").play();
+}
+
+function play_fil21() {
+  listener();
+  var aud = document.getElementById("fil21").play();
+}
+
+function play_fil22() {
+  listener();
+  var aud = document.getElementById("fil22").play();
+}
+
+function play_fil23() {
+  listener();
+  var aud = document.getElementById("fil23").play();
+}
+
+function play_fil24() {
+  listener();
+  var aud = document.getElementById("fil24").play();
+}
+
+function play_fil25() {
+  listener();
+  var aud = document.getElementById("fil25").play();
+}
+
+function play_fil26() {
+  listener();
+  var aud = document.getElementById("fil26").play();
+}
+
+function play_fil27() {
+  listener();
+  var aud = document.getElementById("fil27").play();
+}
+
+function play_fil28() {
+  listener();
+  var aud = document.getElementById("fil28").play();
+}
+
+function play_fil29() {
+  listener();
+  var aud = document.getElementById("fil29").play();
+}
+
+function play_fil30() {
+  listener();
+  var aud = document.getElementById("fil30").play();
+}
+
+function play_fil31() {
+  listener();
+  var aud = document.getElementById("fil31").play();
+}
+
+function play_fil32() {
+  listener();
+  var aud = document.getElementById("fil32").play();
+}
+
+function play_fil33() {
+  listener();
+  var aud = document.getElementById("fil33").play();
+}
+
+function play_fil34() {
+  listener();
+  var aud = document.getElementById("fil34").play();
+}
